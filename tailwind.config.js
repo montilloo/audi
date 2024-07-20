@@ -10,9 +10,7 @@ export default {
     `${srcDir}/plugins/**/*.{js,ts}`,
     `${srcDir}/utils/**/*.{js,ts}`,
     `${srcDir}/App.{js,ts,vue}`,
-    `${srcDir}/app.{js,ts,vue}`,
     `${srcDir}/Error.{js,ts,vue}`,
-    `${srcDir}/error.{js,ts,vue}`,
     `${srcDir}/app.config.{js,ts}`
   ]
 }
